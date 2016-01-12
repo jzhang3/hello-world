@@ -1,2 +1,8 @@
 # hello-world
-GitHut guides "Hello-world"
+GitHub guides "Hello-world"
+
+=======================
+
+Hi everyone!
+
+This is my first GitHub reporsitory.
