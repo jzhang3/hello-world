@@ -1,2 +1,2 @@
 # hello-world
-GitHut guides "Hello-world"
+GitHub guides "Hello-world"
